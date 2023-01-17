@@ -1,9 +1,9 @@
 #include <iostream>
-#include "E:\SEMESTER 3\OOP\penjualan\User.h"
-#include "E:\SEMESTER 3\OOP\penjualan\Pembeli.h"
-#include "E:\SEMESTER 3\OOP\penjualan\Penjual.h"
-#include "E:\SEMESTER 3\OOP\penjualan\Accessoris.h"
-#include "E:\SEMESTER 3\OOP\penjualan\Transaksi.h"
+#include "OOP\penjualan\User.h"
+#include "OOP\penjualan\Pembeli.h"
+#include "OOP\penjualan\Penjual.h"
+#include "OOP\penjualan\Accessoris.h"
+#include "OOP\penjualan\Transaksi.h"
 using namespace std;
 
 int main (){
